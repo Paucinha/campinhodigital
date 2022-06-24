@@ -1,6 +1,6 @@
 # Programação Web Fullstack 2022
 
-## Olá! Bem vIndo meu á Páucia 👋
+## Olá! Bem vIndo meu nome é Páucia 👋
 
  Meu prato favorido é Strogonoff de frango 👩‍🍳
 
