@@ -14,6 +14,6 @@ Criar um alert com uma mensagem, conforme demonstrado na aula.
 
 <div>
 
-  <a href="https://www.luiztools.com.br/wp-content/uploads/2018/09/javascript.png" target="_blank"></a>
+  <a href="https://github.com/Paucinha/campinhodigital.git" target="_blank"><img src="https://github.com/Paucinha/assets/blob/master/jscampoinho.jpg?raw=true" target="_blank"></a>
   
 </div>
