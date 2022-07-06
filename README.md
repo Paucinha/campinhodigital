@@ -6,6 +6,8 @@
 
 Sou Pedagoga 👩‍🏫 estou em Transição de carreira para a área de Tecnologia, cursando Programação Web Fullstack 👩‍💻
 
+Módulo 1
+
 Atividade Aula JS - 04/06/2022
 
 <div>
