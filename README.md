@@ -13,5 +13,7 @@ Atividade Aula JS - 04/06/2022
 Criar um alert com uma mensagem, conforme demonstrado na aula.
 
 <div>
-  <a href="https://raw.githubusercontent.com/Paucinha/assets/master/jscampoinho.jpg" target="_blank"></a>
+
+  <a href="https://github.com/Paucinha/assets/blob/master/jscampoinho.jpg?raw=true" target="_blank"></a>
+  
 </div>
