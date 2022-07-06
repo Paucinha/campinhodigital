@@ -13,5 +13,5 @@ Atividade Aula JS - 04/06/2022
 Criar um alert com uma mensagem, conforme demonstrado na aula.
 
 <div>
-  <a href="https://www.luiztools.com.br/wp-content/uploads/2018/09/javascript.png" target="_blank"><img src="https://www.luiztools.com.br/wp-content/uploads/2018/09/javascript.png" target="_blank"></a>
+  <a href="https://raw.githubusercontent.com/Paucinha/assets/master/jscampoinho.jpg" target="_blank"></a>
 </div>
