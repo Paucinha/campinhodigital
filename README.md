@@ -12,7 +12,8 @@ Atividade Aula JS - 04/06/2022
 
 Criar um alert com uma mensagem, conforme demonstrado na aula.
 
-![Video](https://www.loom.com/share/c4a11343549845b49536e90560acbf21![image](https://user-images.githubusercontent.com/99826124/177831434-e4032153-c7b4-4350-97f2-74da9a578e59.png)
+![Video](![image](https://user-images.githubusercontent.com/99826124/177832080-ad42f9d2-f1b6-4e98-8fb9-42141b086433.png)
+
 
 
 <div>
