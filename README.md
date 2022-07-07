@@ -12,6 +12,9 @@ Atividade Aula JS - 04/06/2022
 
 Criar um alert com uma mensagem, conforme demonstrado na aula.
 
+![Video](https://www.loom.com/share/c4a11343549845b49536e90560acbf21![image](https://user-images.githubusercontent.com/99826124/177831434-e4032153-c7b4-4350-97f2-74da9a578e59.png)
+
+
 <div>
 
   <a href="https://github.com/Paucinha/campinhodigital.git" target="_blank"><img src="https://www.loom.com/share/c4a11343549845b49536e90560acbf21
